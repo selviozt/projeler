@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.Cevaplar.MyAnswerMan"
+             BackgroundColor="#80BFFF">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 1:İlk önce kibriti yakmanız gerekir."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 2:Guguklu saatler gece gündüz ayrımı yapmadığı için sadece 1 saat uyursunuz."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 3:Harfler, Haftanın günlerinin ilk ve son harfleridir. Cevap:Cİ"
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 4:Ayı beyaz olur. Evin her cephesi güneye baktığına göre, bina kuzey kutbundadır."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 5:Bir tane gül, bir tane karanfil bir tane de papatya bulunmaktadır. "
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 6:Bravo sözcüğündeki harflerin tersten yazılışı. Cevap:B "
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="CEVAP 7:Doug evli, Joe bekar değil, demek ki Ken bekar.
+                                    
+                                      Ken ve Joe''nun gözleri aynı renkte, yani mavi.
+
+                                      O halde Doug kahverengi gözlü ve sakallıdır. "
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,30">
+                    <Label
+                        Text="CEVAP 8:İki saat arasında 1 saatte 3 dakika fark meydana geliyor. O halde 60 dakikalık bir fark (saat 7 ile saat 6 arası 60 dakika) meydana gelişi 20 saat alır. Bu 20 saatte sol saat 20 dakika ileri giderken sağ saat 40 dakika geri kalacaktır. O halde sol saat 7'yi sağ saat 6'yı gösterirken doğru saatler sabah 6'yı 40 geçeyi göstermektedir. 20 saat geri gidelim: 10.40 Telefon bir gün önce 10.40'da çalışmıştır"
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

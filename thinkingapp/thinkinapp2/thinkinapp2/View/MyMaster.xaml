@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.View.MyMaster"
+             Title="Menu"
+           BackgroundColor="#65A8E3">
+    <ContentPage.Content>
+        <ScrollView>
+             <StackLayout>
+            
+            <StackLayout >
+                <Image Source="icons.jpg"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center">
+                </Image>
+            </StackLayout>
+
+            <StackLayout Padding="0,20,0,0" Spacing="10"     
+                         VerticalOptions="End"
+                         >
+                
+                <Button  Text="Mantık Soruları" 
+                         Clicked="btnMan_Clicked"         
+                         FontSize="14"
+                         x:Name="btnMan" 
+                         TextColor="White" 
+                         HorizontalOptions="Start" 
+                         Font="Calibri"  
+                         BackgroundColor="#65A8E3" >
+                </Button>
+
+                <Button Text="Matematik Soruları"
+                        x:Name="btnMat" 
+                        Clicked="btnMat_Clicked"
+                        TextColor="White"  
+                        HorizontalOptions="Start"  
+                        BackgroundColor="#65A8E3">
+                </Button>
+
+                <Button  Text="Paradokslar" 
+                         x:Name="btnPara" 
+                         Clicked="btnPara_Clicked"
+                         TextColor="White" 
+                         HorizontalOptions="Start"  
+                         BackgroundColor="#65A8E3">
+                </Button>
+                <Button  Text="Cevaplar"
+                         x:Name="btnCev" 
+                         Clicked="btnCev_Clicked"
+                         TextColor="White" 
+                         HorizontalOptions="Start"  
+                         BackgroundColor="#65A8E3">
+                </Button>
+            </StackLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </StackLayout> 
+        </ScrollView>
+      
+    </ContentPage.Content>
+</ContentPage>

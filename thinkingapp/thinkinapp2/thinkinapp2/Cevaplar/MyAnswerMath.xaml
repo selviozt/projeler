@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.Cevaplar.MyAnswerMath"
+             BackgroundColor="#80BFFF">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 1: (0!+0!+0!)!=6"
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 2: 6 hamlede şu şekilde bölünebilir:
+                                       
+                                          9 5 4 2
+                                         
+                        
+                                          0)9 0 0 0
+                                          
+                        
+                                          1)5 0 4 0
+
+                        
+                                          2)3 0 4 2
+
+                        
+                                          3)3 2 4 0
+
+                        
+                                          4)3 5 1 0
+
+                        
+                                          5)3 3 1 2
+
+                        
+                                          6)3 3 3 0"
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 3:Sayılar şu şekilde gruplanmış:
+                        
+                        
+                              Grup A: Yalnızca eğri çizgilerle yazılan sayılar.
+
+                        
+                              Grup B: Yalnızca düz çizgilerle yazılan sayılar.
+
+                        
+                              Grup C: Hem eğri hem düz çizgilerle yazılan sayılar
+                        
+                        
+                              Buna göre 15,16 ve 17, sırasıyla C,C ve B gruplarına aittir."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 4: 1,3,9 ve 27 kiloluk ağırlıklardır."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 5:3 litrelik bidonu doldur 5 litrelik bidona boşalt, bir kez daha 3 litrelik bidonu doldur 5 litrelik bidona boşalt. 3 litrelik bidonda 1 LİTRE su kalır. 5 litrelik bidonun içindeki suyu boşalt. 3 litrelik bidonun içinde kalan 1 litre suyu 5 litrelik bidonun içine dök. 3 litrelik bidonu bir kez daha suyla doldur ve 5 litrelik bidona boşalt. Böylece 5 litrelik bidonda 4 litre su olur.  "
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,0">
+                    <Label
+                        Text="Cevap 6:   6=2*3*11
+                        
+                        
+                                         168=2*2*2*3*7
+                        
+                        
+                                         308=2*2*7*11
+                         
+                        
+                                         En küçük ortak kat = 1848
+                        
+                        
+       68x=168y=308z; x=28k; y=11k; z=6k => Yaklaşık 100 pul olabilmesi için k=2 olmalı.O halde toplam maliyeti 11.088 senttir."
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                    Padding="0,30,0,30">
+                    <Label
+                        Text="Cevap 7:2164916 veya 2161649 "
+                        TextColor="White"
+                        Font="Calibri"
+                        FontSize="Medium">
+                    </Label>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

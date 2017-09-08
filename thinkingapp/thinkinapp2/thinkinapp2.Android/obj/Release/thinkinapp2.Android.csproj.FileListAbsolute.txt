@@ -1,0 +1,107 @@
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android-Signed.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.csprojResolveAssemblyReference.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\bin\thinkinapp2.Android.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\values\styles.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\light.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\brain.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\think2.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\icons.jpg
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\R.cs.flag
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\uploadflags.txt
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\thinkinapp2.Android.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\thinkinapp2.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.Android-Signed.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\SkiaSharp.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\SkiaSharp.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.csprojResolveAssemblyReference.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\thinkinapp2.Android.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\android\bin\thinkinapp2.Android.apk
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\values\styles.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\light.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\brain.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\think2.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\icons.jpg
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\indir.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\math.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\res\drawable\brain2.png
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\R.cs.flag
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2.Android\obj\Release\uploadflags.txt

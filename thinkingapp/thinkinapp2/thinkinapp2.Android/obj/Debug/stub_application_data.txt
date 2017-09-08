@@ -1,0 +1,2 @@
+android.app.Application
+thinkinapp2.Android

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.SORULAR.MyMantik"
+             Title=" Mantık Soruları"
+             BackgroundColor="#A7FF4D"
+            >
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout
+            BackgroundColor="#B6D92F">
+                <Label                   
+                    Text="SORU 1 :Sadece bir tek kibritiniz var, içinde bir gaz lambası, bir gaz sobası, ve birde mum bulunan karanlık ve soğuk bir odaya girdiniz.Önce hangisini yakardınız?"
+                    Font="Calibri"
+                    FontSize="Medium"                 
+                    TextColor="White">
+                </Label>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 2:Gece saat sekizde yatıyorum ve yatarken guguklu saatimi sabah dokuza kuruyorum kaç saat uyurum?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 3:'Pİ,SI,ÇA.PE,CA,?' Soru işareti yerine ne gelmeli?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 4:Adamın biri dikdörtgen biçiminde ve her cephesi güney manzaralı bir ev inşa ediyor. Evi kocaman bir ayı ziyaret ederse bu ayı ne renk olur?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 5:Elimdeki çiçeklerin ikisi hariç hepsi papatya, ikisi hariç hepsi gül ve ikisi hariç hepsi karanfil olduğuna göre elimde hangi çiçekten kaç tane bulunmaktadır ?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 6:'O,V,A,R,?' Soru işareti yerine hangi harf gelmelidir?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 7: 'Ben sadece sakallıyı tanıyorum', dedi. Martha. 'Adı neydi?'Clem, 'Kendin bul' diyerek şunları söyledi: 'İkisi evlidir, ikisi mavi gözlüdür, ikisi sakalsızdır. Sakallının kahverengi gözleri vardır. Doug'un karısı Ken'in kız kardeşidir. Bekar olan ile Joe'nun gözleri aynı renktir. Üçü de delikanlı çocuklardır.'Sakallının adını bulun....'"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 8:Telefon çalınca dedektif Kafacan yerde iki kol saati gördü. Saatler durmuştu. Kafacan hemen her iki saati de kurup doğru zamana getirdi ve birini sol, birine de sağ koluna taktı. 1 saat sonra sol saat 1 dakika ileri gitmiş, sağ saat 2 dakika geri kalmıştı. Ertesi sabah sol saat, saat 7'yi gösterirken sağ saat, saat 6'yı gösteriyordu. Telefon saat kaçta çalmıştı?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout>
+                    <Button
+                    x:Name="mantikcevap"
+                    Clicked="mantikcevap_Clicked"
+                    Text="Cevaplar"
+                    Font="Calibri"
+                    FontSize="20"
+                    FontAttributes="Italic"
+                    TextColor="White" 
+                    VerticalOptions="End"
+                    HorizontalOptions="Center"   
+                    BackgroundColor="#5D9C48">
+                    </Button>
+                </StackLayout>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

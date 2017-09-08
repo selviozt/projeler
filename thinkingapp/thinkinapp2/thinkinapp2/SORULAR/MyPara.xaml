@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.SORULAR.MyPara"
+             Title="                  PARADOKSLAR"
+             BackgroundColor="#FFFA8F">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout>
+                    <Label                   
+                    Text="AVUKAT PARADOKSU:Hukuk fakültesini bitiren genç, ülkenin en ünlü avukatının yanında staj yapmak için başvuruda bulunur. Avukat gence tek şart ileri sürer: 'İlk davandan elde ettiğin bütün parayı bana vereceksin'. Anlaşma imzalanır ve iki yıl beraber çalışırlar. Tam staj bittiğinde genç anlaşmayı haksız bulduğunu, ilk davadan kazandığı parayı ona vermeyeceğini açıklar. Avukat tazminat talebi ile mahkemeye başvurur.Hakimin kararı ne olmalıdır?                  
+                          '-Sayın yargıcım, bu davayı uzatmaya gerek yok; çünkü eğer ben kazanırsam zaten parayı alacağım, eğer kaybedersem yine alacağım, çünkü anlaşmamıza göre o ilk davasından kazandığı parayı bana verecek.'                          
+                            Hakim tam avukatı haklı bulacakken bu kez genç avukat söz alır ve şöyle der:                                            
+                          '-Sayın yargıcım, evet avukat haklı, bu duruşma gerçekten gereksiz, ama benim lehime; zira eğer ben bu davayı kazanırsam zaten ona birşey ödemeyeceğim. Eğer kaybedersem, anlaşmamıza göre ilk davayı kaybettiğim için ona yine bir şey ödemeyeceğim.'"
+                    Font="Calibri"
+                    FontSize="Medium"                 
+                    TextColor="Gray">
+                    </Label>
+                </StackLayout>
+ 
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="GİRİTLİ PARADOKSU:'Tüm Giritliler yalancıdır.' "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="KRAL PARADOKSU:Kral ülkenin yalancıları arasında bir yarışma açtı. 'İşte bu yalan!' diyebileceği bir yalan uydurana bir küp altın vadetti. Yalancılar akın akın saraya gelip yalanlarını söylediler, fakat yalanlar ne kadar akıl almaz olursa olsun kral hep 'Olabilir, niye olmasın...' gibi cevaplar veriyordu. Böylece hem eğleniyor, hem de bir küp altından olmuyordu. Derken kahramanımız elinde boş bir küple huzura çıktı ve konuştu: Rahmetli dedeniz bir savaşa çıkacaktı, ancak o günlerde hazinede yeterli para yoktu. Dedeniz dedemden bu küple bir küp altın borç aldı ve 'Bu borcumu torunum torununa ödeyecek.' diye söz verdi. Şimdi, dedenizin borcunu bana ödemeniz için buraya geldim.'Kral, 'İşte bu kuyruklu bir yalan!' deyince adam, 'O halde ödülümü alayım,' dedi. Kral, 'Imm şeyy doğru da olabilir' deyince adam, 'O halde borcunuzu ödeyin' dedi."
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="BERBER PARADOKSU:Bir berber, bulunduğu köydeki erkeklerden, yalnızca kendi kendini traş edemeyen erkekleri traş ediyor. Berberi kim traş edecek? 1- Eger kendi kendine traş olmasa, bu durumda kendi kendine traş olamayan erkek sınıfına girecek ve kendisi de kendini traş edemeyen erkekleri traş ettiği icin kendini traş etmesi gerekecek.2- Kendini traş etmesi durumunda da kendi kendine traş olabilen erkekler sınıfına girmiş olacak ve sadece kendi kendine traş olamayan erkekleri traş ettiği için, bu kuralı bozmuş olacak."
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="KATİL-KADIN PARADOKSU: Katilin biri kadının bir anlık gafletinden yararlanarak çocuğunu elinden almış. kadın katile çocuğunu vermesi için yalvarmış. Katil de kadına 'Çocuğuna ne yapacağımı doğru olarak tahmin edersen sana çocuğunu geri vereceğim' demiş. Kadın 'Ay yavrumu öldüreceksin sen diye bağırmış'.Katil'Kusura bakma onu sana veremem. Verirsem yanlış tahminde bulunmuş olursun.Ama yanlış tahminde bulunursan onu öldüreceğimi söylemiştim'der. Kadın'Tam tersine.Çocuğumu öldüremezsin. Eğer onu öldürürsen doğru tahminde bulunmuş olurum ve sen doğru tahminde bulunursam bana çocuğumu vereceğini söylemiştin'der."
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="HİLBERT OTEL PARADOKSU:Sonlu sayıda odası olan ve tüm odaları dolu olan bir otel düşünün. Bu durumda bir müşteri otel görevlisine oda istedigini söylediğinde görevli yeri olmadığını söyler.Şimdi de sonsuz sayıda odası olan bir otel düşünün. Tüm odalar dolu olsun. Bu otele yeni bir müşteri gelip oda istediğinde acaba görevli aynı şekilde tüm odalarının dolu olduğunu mu söyleyecektir? Hayır. Görevli müşteriye 1 nolu odaya geçmesini söyleyebilir. Görevli 1 numaralı odadaki müşteriyi 2 numaralı odaya, 2 numaralı odadaki müşteriyi 3 numaralı odaya yerleştirir ve bu böylece sürüp gider. Sonuçta 1 numaralı oda boş kalmış olur. 'Sonsuz sayıda odası olan ve tüm odaları dolu olan bir otel düşünün.Örnekten farklı olarak bu durumda bir müşteri değil, sonsuz sayıda müşteri gelsin.Görevli, sonsuz sayıdaki müşteriye de yer bulabilir. N1 odasındaki müşteriyi N2 odasına, N2 odasındakini N4 odasına, N3 odasındakini N6 odasına gönderir. Bu işlemi tüm odalar için yapar. Sonuçta tüm tek sayıdaki odalar boş kalacağı içinsonsuz sayıdaki müşteri odalara yerleşebilir. '"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="ZAMAN MAKİNESİ PARADOKSU:  Bir bilim adamının karşısına kendi gelecekteki hali çıkar, ona gelecekte zaman makinesini bulduğunu söyler, nasıl yapılacağını anlatır, şemaları bırakır ve gider. Bunun üzerine bilim adamı makineyi yapmaya başlar, bittiğinde geçmişe gidip kendi geçmişteki haline zaman makinesinin şemasını teslim eder.  Döngü bu şekilde sürüp gider, fakat sorun şudur: Zaman makinesini ilk kim bulmuştur?"
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="BERBER PARADOKSU:Köyün birinde bir berber varmış. Bu berber, o köyde kendini traş etmeyen herkesi traş edermiş, kendini traş edenleriyse traş etmezmiş. Soru şu: bu berber kendini traş eder mi, etmez mi? Kendini traş etmezse, kendini traş etmeyen herkesi traş ettiğinden, kendini traş etmeli. Kendini traş ederse, kendini traş edenleri traş etmediğinden, kendini traş etmemeli."
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="Gray">
+                    </Label>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

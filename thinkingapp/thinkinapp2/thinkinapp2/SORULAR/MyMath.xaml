@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.SORULAR.MyMath"
+             Title="                  MATEMATİK"
+             BackgroundColor="#80BFFF">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout
+             BackgroundColor="#80BFFF">
+                <Label                   
+                    Text="SORU 1 :3 tane sıfır kullanarak 6 sayısını bulunuz. "
+                    Font="Calibri"
+                    FontSize="Medium"                 
+                    TextColor="White">
+                </Label>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 2:2,4,5,9 litrelik kaplarınız var. Bunlardan 9 litrelik olanı su ile dolu. Bu 9 litrelik suyu en az hamlede 3 litrelik üç parçaya bölün. "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 3:0'dan 14'e kadar olan sayılar, şu üç gruba ayrılmış:
+                             
+                        Grup A: 0, 3, 6, 8 ve 9.
+                             
+                        Grup B: 1, 4, 7, 11 ve 14.
+                             
+                        Grup C: 2, 5, 10, 12 ve 13.
+                            
+                        Buna göre 15, 16 ve 17 hangi gruplara dahil edilmelidir? "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 4:Manavın iki kefeli bir terazisi ve 4 adet farklı ağırlığı vardır. Manav, bunlarla 1 kilodan 40 kiloya kadar olan her şeyi tartabiliyor. Manavın elindeki 4 farklı ağırlık nelerdir? "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 5:Elinizde 5lt ve 3lt hacimli iki adet bidon mevcut. Sadece bu iki bidonu kullanarak 4 lt suyu nasıl elde edersiniz? "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 6:Joe karısına 'Bugün 3 kutu pul aldım'dedi.' Birinci kutudakilere ortalama 66 sent, ikinci kutudakilere ortalama 168 sent, üçüncü kutudakilere ortalama 308 sent ödedim. Her bir kutudaki pulların toplam maliyetinin aynı olması çok ilginç.' "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+
+                <StackLayout
+                Padding="0,30,0,0">
+                    <Label
+                Text="SORU 7:Plazo De Mayo'da güzel ve şık bir kadına telefon numarasını sordum. O da bana dedi ki: '4. ve 5. rakamlar mükemmel bir kare oluşturur. 6. ve 7. rakamlar da öyle. İlk üç rakama gelince, mükemmel bir küp oluşturur, ve üstelik öbür dört rakamın çarpımına eşittir. Beni arasana.'Telefon numarası kaç? "
+                Font="Calibri"
+                FontSize="Medium"
+                TextColor="White">
+                    </Label>
+                </StackLayout>
+             
+                <StackLayout>
+                    <Button
+                    x:Name="Mathcevap"
+                    Clicked="Mathcevap_Clicked"
+                    Text="Cevaplar"
+                    Font="Calibri"
+                    FontSize="20"
+                    FontAttributes="Italic"
+                    TextColor="White" 
+                    VerticalOptions="End"
+                    HorizontalOptions="Center"   
+                    BackgroundColor="#3775BD">
+                    </Button>
+                </StackLayout>
+
+            </StackLayout>
+            
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

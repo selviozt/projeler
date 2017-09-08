@@ -1,0 +1,51 @@
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\SkiaSharp.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\SkiaSharp.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.csprojResolveAssemblyReference.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.MainPage.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.App.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.View.MyDetail.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.View.MyMaster.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyMath.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyMantik.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyAnswer.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyPara.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\SkiaSharp.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\SkiaSharp.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.MainPage.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.App.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.View.MyDetail.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.View.MyMaster.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyMath.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyMantik.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyAnswer.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.SORULAR.MyPara.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.View.DrawerPage.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.dll
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.pdb
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.csprojResolveAssemblyReference.cache
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.Cevaplar.MyAnswerMan.xaml.g.cs
+C:\Users\Fırat\Documents\Visual Studio 2017\Projects\thinkinapp2 - Kopya\thinkinapp2\thinkinapp2\obj\Debug\thinkinapp2.Cevaplar.MyAnswerMath.xaml.g.cs

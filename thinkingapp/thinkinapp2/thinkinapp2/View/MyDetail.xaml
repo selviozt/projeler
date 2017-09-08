@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="thinkinapp2.View.MyDetail"
+             Title="                   THINKING">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid
+                RowSpacing="0"
+                ColumnSpacing="0">
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!--mantık(0,0)-->
+                <BoxView BackgroundColor="#A7FF4D"
+                         Grid.Row="0"
+                         Grid.Column="0"/>
+                
+                <Image Source="brain.png"
+                       Grid.Row="0"
+                       Grid.Column="0"/>
+                <Button 
+                    x:Name="btnMantık"
+                    Clicked="btnMantık_Clicked"
+                    Opacity="0"
+                    Grid.Row="0"
+                    Grid.Column="0"/>
+                
+                <Label Text="MANTIK SORULARI"
+                       FontAttributes="Bold"
+                       TextColor="DarkOliveGreen"
+                       FontSize="15"
+                       Grid.Row="0"
+                       Grid.Column="0"
+                       HorizontalOptions="Center"
+                       VerticalOptions="End"/>
+
+                <!--matematik (0,1)-->
+                <BoxView BackgroundColor="#80BFFF"
+                         Grid.Row="0"
+                         Grid.Column="1"/>
+
+                <Image Source="math.png"
+                       Grid.Row="0"
+                       Grid.Column="1"/>
+                <Button 
+                    x:Name="btnMath"
+                    Clicked="btnMath_Clicked"
+                    Opacity="0"
+                    Grid.Row="0"
+                    Grid.Column="1"/>
+
+                <Label Text="MATEMATİK SORULARI"
+                       FontAttributes="Bold"
+                       TextColor="PaleTurquoise"
+                       FontSize="15"
+                       Grid.Row="0"
+                       Grid.Column="1"
+                       HorizontalOptions="Center"
+                       VerticalOptions="End"/>
+
+                <!--paradoks(1,0)-->
+                <BoxView BackgroundColor="#FFF982"
+                         Grid.Row="1"
+                         Grid.Column="0"/>
+
+                <Image Source="brain2.png"
+                       Grid.Row="1"
+                       Grid.Column="0"/>
+                <Button 
+                    x:Name="btnPara"
+                    Clicked="btnPara_Clicked"
+                    Opacity="0"
+                    Grid.Row="1"
+                    Grid.Column="0"/>
+
+                <Label Text="PARADOKSLAR"
+                       FontAttributes="Bold"
+                       TextColor="Gold"
+                       FontSize="15"
+                       Grid.Row="1"
+                       Grid.Column="0"
+                       HorizontalOptions="Center"
+                       VerticalOptions="End"/>
+
+                <!--cevaplar (1,1)-->
+                <BoxView BackgroundColor="#A94CFF"
+                         Grid.Row="1"
+                         Grid.Column="1"/>
+
+                <Image Source="light.png"
+                       Grid.Row="1"
+                       Grid.Column="1"/>
+
+                <Button 
+                    x:Name="btnCevaplar"
+                    Clicked="btnCevaplar_Clicked"
+                    Opacity="0"
+                    Grid.Row="1"
+                    Grid.Column="1"/>
+
+                <Label Text="CEVAPLAR"
+                       FontAttributes="Bold"
+                       TextColor="DarkViolet"
+                       FontSize="15"
+                       Grid.Row="1"
+                       Grid.Column="1"
+                       HorizontalOptions="Center"
+                       VerticalOptions="End"/>
+
+
+               
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="thinkinapp2.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:thinkinapp2.UWP"
+    RequestedTheme="Light">
+
+</Application>
